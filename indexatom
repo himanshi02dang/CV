@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Himanshi's personal site</title>
+</head>
+
+<body>
+  <table  cellspacing="20">
+    <tr>
+      <td><img src="images/himanshi.jpeg" alt="himanshi portfolio picture"></td>
+      <td>  <h1>HIMANSHI DANG</h1>
+      <p>
+        <em></e>Web developer and a marketing enthusiast</em>
+</td>
+    </tr>
+  </table>
+
+
+<hr>
+<h2>EDUCATION</h2>
+  <p><strong>SCHOOLING</strong></p><br>
+  <p>DAV PUBLIC SCHOOL, SEC 14 GURUGRAM(HR)</p>
+  <ul>
+    <li>XII - 80%<br></li>
+    <li>X -85%</li>
+
+  <p><STRONG>GRADUATION</STRONG></p>
+  <p>DRONACHARYA COLLEGE OF ENGINEERING</p>
+  <p>75% - TILL 4TH SEM</p>
+  </ul>
+    </P>
+    <hr>
+    <p><strong><em>CERTIFICATES</em></strong></p>
+    <ul>
+      <li><a href="https://skillshop.exceedlms.com/student/award/50612048
+        ">GOOGLE ADS DISPLAY CERTIFICATION</a></li>
+    </ul>
+  </p>
+<hr>
+  <h3>WORK EXPERIENCE</h3>
+<table  cellspacing="20">
+  <tr>
+    <td>APRIL 2020</td>
+    <td>CREATIVE CONTENT WRITER AT TRELL</td>
+  </tr>
+  <tr>
+    <td>MAY 2020</td>
+    <td>SOCIAL MEDIA MARKETER AT OYSTER.CONNECT</td>
+  </tr>
+  <tr>
+    <td>JUNE2020</td>
+    <td>CONTENT CRAETOR AT LOANADDA</td>
+  </tr>
+ <thead>
+   <tr>
+     <th>DATES</th>
+     <th>WORK</th>
+   </tr>
+ </thead>
+ </table>
+<hr>
+ <h3>SKILLS</h3>
+ <table CELLSPACING="20">
+   <tr>
+     <td>HTML</td>
+    <td>🟡🟡🟡🟡🟡</td>
+     <td>PAINTING</td>
+     <td>🟡🟡🟡🟡</td>
+   </tr>
+   <tr>
+     <td>CSS</td>
+     <td>🟡🟡🟡🟡🟡</td>
+     <td>SINGING</td>
+      <td>🟡🟡🟡🟡</td>
+  </tr>
+   <tr>
+     <td>JAVA SCRIPT</td>
+     <td>🟡🟡🟡🟡🟡</td>
+     <td>BOXING</td>
+     <td>🟡🟡</td>
+  </tr>
+  <tr>
+    <td>DIGITAL MARKETING </td>
+    <td>🟡🟡🟡🟡🟡</td>
+    <td>CONTENT WRITING</td>
+    <td>🟡🟡🟡🟡🟡</td>
+  </tr>
+
+   </table>
+
+
+
+
+  <hr>
+  <a href="HOBBIES.HTML">MY HOBBIES</a><br>
+  <a href="CONTACT.html">MY CONTACT DETAILS</a><br>
+
+</body>
+
+</html>
